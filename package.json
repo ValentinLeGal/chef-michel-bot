@@ -1,0 +1,20 @@
+{
+  "name": "bot-michel-dumas",
+  "version": "1.0.0",
+  "description": "Un bot Chef Michel Dumas, comme ça !",
+  "main": "chef.js",
+  "scripts": {
+    "start": "node chef.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valentin LE GAL",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
+    "rss-parser": "^3.10.0",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {}
+}
