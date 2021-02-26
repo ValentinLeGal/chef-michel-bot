@@ -72,7 +72,8 @@ module.exports = async (client, message) => {
       cachedVideoId = lastFeedVideo.id;
     } else if (lastFeedVideo.id !== cachedVideoId) {
       // Si l'ID de la dernière vidéo récupérée est différente de celui en cache, on met à jour et on notifie
-      cachedVideoId = lastFeedVideo;
+      cachedVideoId = lastFeedVideo.id;
+
       sendMessageAllGuilds(
         `Nouvelle vidéo @everyone, comme ça !\n\n🎥 ${shortLink}`
       );

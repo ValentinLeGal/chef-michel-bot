@@ -5,10 +5,10 @@ module.exports.run = async (client, message, args) => {
   
   if (/^(minecraft|mc|fanta)$/.test(command)) {
     message.react('🎮');
-    message.channel.send('https://www.youtube.com/watch?v=2P1PHiFBQT0');
+    message.channel.send('https://youtu.be/2P1PHiFBQT0');
   } else if (/^(remix|dj)$/.test(command)) {
     message.react('🎧');
-    message.channel.send('https://www.youtube.com/watch?v=O1a7RhkMxPU');
+    message.channel.send('https://youtu.be/O1a7RhkMxPU');
   }
 };
 
