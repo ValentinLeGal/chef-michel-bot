@@ -28,7 +28,7 @@ module.exports.run = async (client, message, args) => {
   });
 
   const helpEmbed = {
-    title: 'Bot Michel Dumas',
+    title: 'Chef Michel Bot',
     url: 'https://github.com/ValentinLeGal/chef-michel-bot',
     description: '**Toutes les commandes du bot :**',
     thumbnail: {
@@ -36,7 +36,7 @@ module.exports.run = async (client, message, args) => {
     },
     fields: fields,
     footer: {
-      text: 'Bot Michel Dumas — Version ' + version,
+      text: 'Chef Michel Bot — Version ' + version,
       icon_url: icon,
     },
   };

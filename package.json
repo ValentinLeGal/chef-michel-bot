@@ -1,13 +1,13 @@
 {
-  "name": "bot-michel-dumas",
+  "name": "chef-michel-bot",
   "version": "1.0.1",
-  "description": "Un bot Chef Michel Dumas, comme ça !",
+  "description": "Un bot Chef Michel, comme ça !",
   "main": "chef.js",
   "scripts": {
     "start": "node chef.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Valentin LE GAL",
+  "author": "Valentin Le Gal",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^12.5.1",

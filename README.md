@@ -1,4 +1,4 @@
-# Bot Chef Michel
+# Chef Michel Bot
 
 Un bot Discord à l'effigie du grand et célèbre Chef Michel Dumas, comme ça !
 
