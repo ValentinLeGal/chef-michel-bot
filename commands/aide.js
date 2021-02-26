@@ -29,7 +29,7 @@ module.exports.run = async (client, message, args) => {
 
   const helpEmbed = {
     title: 'Bot Michel Dumas',
-    url: 'https://github.com/ValentinLeGal/bot-michel-dumas/',
+    url: 'https://github.com/ValentinLeGal/chef-michel-bot',
     description: '**Toutes les commandes du bot :**',
     thumbnail: {
       url: icon,

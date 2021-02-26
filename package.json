@@ -1,6 +1,6 @@
 {
   "name": "bot-michel-dumas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Un bot Chef Michel Dumas, comme ça !",
   "main": "chef.js",
   "scripts": {
