@@ -61,7 +61,7 @@ module.exports = async (client, message) => {
       'https://www.youtube.com/feeds/videos.xml?channel_id=UCSLyEx8ISkp567AjOAHYN5Q'
     );
 
-    // On récupère l'ID de la dernière vidéo
+    // On récupère la dernière vidéo
     const lastFeedVideo = videos[0];
 
     // On raccourci le lien pour avoir un "youtu.be"

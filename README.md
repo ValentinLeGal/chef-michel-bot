@@ -27,6 +27,7 @@ Remerciements aux petits couteaux, la machine miracle et le caméraman.
 
 ## Versions
 
-| Version | Date       | Description                                                           |
-| ------- | ---------- | --------------------------------------------------------------------- |
-| 1.0.0   | 25/02/2021 | Lancement du projet Bot Chef Michel et ajouts des premières commandes |
+| Version | Date       | Description                                                            |
+| ------- | ---------- | ---------------------------------------------------------------------- |
+| 1.1.0   | 26/02/2021 | La commande `video` affiche désormais la dernière vidéo de Chef Michel |
+| 1.0.0   | 25/02/2021 | Lancement du projet Bot Chef Michel et ajouts des premières commandes  |
